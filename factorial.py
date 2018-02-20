@@ -1,7 +1,5 @@
 #Copyright 2018 Brennan McMicking
 
-import sys
-
 def main():
     print "the number of possible arrangements for a deck of cards is:\n" + str(factorial(52))
 
