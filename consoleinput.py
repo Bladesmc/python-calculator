@@ -1,5 +1,3 @@
-# Copyright 2018 Brennan McMicking
-
 import factorial as f
 
 
