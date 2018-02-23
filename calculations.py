@@ -1,4 +1,3 @@
-# Copyright 2018 Brennan McMicking
 # This file does all the fun math and returns it back to the command line or GUI.
 import factorial as f
 
