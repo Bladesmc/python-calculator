@@ -1,4 +1,3 @@
-# Copyright 2018 Brennan McMicking
 # TODO: support multiple operations at once WHICH IS NOT EASY SO IT MIGHT NOT GET DONE
 
 import calculations as calc
